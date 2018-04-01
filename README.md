@@ -7,7 +7,7 @@ The data set type: This dataset contains three features f1, f2 and f3. f1 and f2
 
 
 
-i have 3 ways of solving document classification
+i have uploaded  3 ways of solving document classification
 
 
 1st type test.py
